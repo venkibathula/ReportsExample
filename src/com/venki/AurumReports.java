@@ -9,6 +9,7 @@ import net.sf.jasperreports.engine.JasperExportManager;
 import net.sf.jasperreports.engine.JasperFillManager;
 import net.sf.jasperreports.engine.JasperPrint;
 import net.sf.jasperreports.engine.JasperReport;
+//started the program.
 
 public class AurumReports {
 	public static void main(String... args) throws JRException {
@@ -25,7 +26,13 @@ public class AurumReports {
 		}
 
 	}
-
 }// end of program.
 	// this is branch.
 	// contrioller.
+=======
+}//end of program.
+//this is branch.
+//contrioller.
+
+
+>>>>>>> refs/remotes/origin/Branch1
